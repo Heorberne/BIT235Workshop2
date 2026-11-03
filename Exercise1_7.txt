@@ -1,0 +1,16 @@
+Exercise 1.7
+
+Expression:
+"I love java programming".substring(7, 11);
+
+substring(7, 11) takes the characters from index 7 up to (but not including) index 11.
+
+The characters at those positions are:
+index 7 -> j
+index 8 -> a
+index 9 -> v
+index 10 -> a
+
+So the returned string is "java".
+
+Length of the string = 4.
